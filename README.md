@@ -1,6 +1,6 @@
 # NLW-Together ⚛️
 
-<p align="center"><img alt="Letmeask" src="/cogumm/NextLevelWeek/raw/master/.github/nlw6.svg" width="160px" style="max-width:100%;"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/cogumm/NextLevelWeek/4606cc600cb4ac85da3711159371d3f04c26c1b0/.github/nlw6.svg"> </p>
 
 - landing page da aplicação Letmeask desenvolvido durante a semana NWL/Together - Rocketseat.
 
